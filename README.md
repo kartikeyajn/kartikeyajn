@@ -12,12 +12,12 @@ Artificial Intelligence & Data Science student, Interested in Machine Learning a
 
 ### About Me
 
-I'm a B.Tech student in Artificial Intelligence and Data Science. Right now I'm exploring Machine learning, DSA and other fundamentals and deep diving.
+I'm a B.Tech student in Artificial Intelligence and Data Science. Right now I'm exploring Machine learning, DSA and other fundamentals and deep diving into how things work under the hood.
 I am eager to contribute and make an impact.
 
 
 
-<p align="center"><i> Fueled by Curosity</i></p>
+<p align="center"><i> Fueled by Curiosity</i></p>
 
 <!--
 **kartikeyajn/kartikeyajn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
