@@ -1,12 +1,22 @@
-<img width="1256" height="1256" alt="IMG_20260427_190026" src="https://github.com/user-attachments/assets/c0c1f964-cfb8-4f50-9847-56c9b49eac37" />
-## Hi there 👋
 
-- Myself Kartikeya Jain
-- I am a machine learning and data science student
-- Currently learning and exploring
-- I am also exploring DSA
-- I love to make impact
-- I am eager to build and contribute
+# Hi, I'm Kartikeya Jain👋
+
+Artificial Intellignece & Data Science student, Interested in creating impact.
+
+<p>
+  <a href="https://linkedin.com/in/kartikeyajn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kartikeyajain2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### About Me
+
+I'm a B.Tech student in Artifical Intelligence and Data Science. Right now I'm exploring Machine learning, DSA and other fundamentals to deep dive in and eager to contribute.
+
+
+
+<p align="center"><i> Exploring • Learning </i></p>
 
 <!--
 **kartikeyajn/kartikeyajn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
