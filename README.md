@@ -1,7 +1,7 @@
 
 # Hi, I'm Kartikeya Jain👋
 
-Artificial Intellignece & Data Science student, Interested in creating impact.
+Artificial Intelligence & Data Science student, Interested in Machine Leaning.
 
 <p>
   <a href="https://linkedin.com/in/kartikeyajn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,11 +12,11 @@ Artificial Intellignece & Data Science student, Interested in creating impact.
 
 ### About Me
 
-I'm a B.Tech student in Artifical Intelligence and Data Science. Right now I'm exploring Machine learning, DSA and other fundamentals to deep dive in and eager to contribute.
+I'm a B.Tech student in Artificial Intelligence and Data Science. Right now I'm exploring Machine learning, DSA and other fundamentals to deep dive in and eager to contribute and impact.
 
 
 
-<p align="center"><i> Exploring • Learning </i></p>
+<p align="center"><i> Fueled by Curosity</i></p>
 
 <!--
 **kartikeyajn/kartikeyajn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
