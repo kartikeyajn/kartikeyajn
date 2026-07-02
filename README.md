@@ -1,4 +1,12 @@
+<img width="1256" height="1256" alt="IMG_20260427_190026" src="https://github.com/user-attachments/assets/c0c1f964-cfb8-4f50-9847-56c9b49eac37" />
 ## Hi there 👋
+
+- Myself Kartikeya Jain
+- I am a machine learning and data science student
+- Currently learning and exploring
+- I am also exploring DSA
+- I love to make impact
+- I am eager to build and contribute
 
 <!--
 **kartikeyajn/kartikeyajn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
