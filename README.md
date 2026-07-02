@@ -1,7 +1,7 @@
 
 # Hi, I'm Kartikeya Jain👋
 
-Artificial Intelligence & Data Science student, Interested in Machine Leaning.
+Artificial Intelligence & Data Science student, Interested in Machine Learning and understanding how things work under the hood.
 
 <p>
   <a href="https://linkedin.com/in/kartikeyajn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,7 +12,8 @@ Artificial Intelligence & Data Science student, Interested in Machine Leaning.
 
 ### About Me
 
-I'm a B.Tech student in Artificial Intelligence and Data Science. Right now I'm exploring Machine learning, DSA and other fundamentals to deep dive in and eager to contribute and impact.
+I'm a B.Tech student in Artificial Intelligence and Data Science. Right now I'm exploring Machine learning, DSA and other fundamentals and deep diving.
+I am eager to contribute and make an impact.
 
 
 
